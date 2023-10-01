@@ -27,5 +27,5 @@ locale - Sets the language in the card (e.g. cn, de, es, etc.). Default: en.
 border_radius - Corner rounding on the card. Default: 4.5.
 -->
 
-[![GitHub stats](https://github-readme-stats-git-master-vitor-manoels-projects.vercel.app/api?username=vitor-manoel&theme=transparent&show=reviews,prs_merged&rank_icon=github)](https://github.com/vitor-manoel)
+[![GitHub stats](https://github-readme-stats-git-master-vitor-manoels-projects.vercel.app/api?username=vitor-manoel&theme=transparent&show=reviews&rank_icon=github&hide=stars)](https://github.com/vitor-manoel)
 [![Top Langs](https://github-readme-stats-git-master-vitor-manoels-projects.vercel.app/api/top-langs/?username=vitor-manoel&theme=transparent&layout=compact)](https://github.com/vitor-manoel)
